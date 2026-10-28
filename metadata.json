@@ -1,0 +1,6 @@
+{
+  "name": "Arborix",
+  "description": "Interactive dual-tree visualization tool for AVL Trees and B+ Trees with step-by-step algorithmic playback and pure SVG canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
